@@ -11,6 +11,7 @@ package com.mycompany.lab8;
 public class bai4 {
 
     public static void main(String[] args) {
+        System.out.println("Nguyen Pham Bao Tran ");
         System.out.println("Tong: " + XPoly.sum(1, 2, 3, 4, 5));
         System.out.println("So nho nhat: " + XPoly.min(5, 2, 9, 1, 7));
         System.out.println("So lon nhat: " + XPoly.max(5, 2, 9, 1, 7));
