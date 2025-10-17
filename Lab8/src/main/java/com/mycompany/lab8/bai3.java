@@ -33,6 +33,7 @@ public class bai3 {
     }
 
     public static void main(String[] args) {
+        System.out.println("Nguyen Pham Bao Tran ");
         String s = "nguyen van teo";
         System.out.println("Chuoi ban dau: " + s);
         System.out.println("Chuoi sau khi doi: " + toUpperFirstChar(s));
