@@ -38,6 +38,7 @@ public class bai2 {
     }
 
     public static void main(String[] args) {
+        System.out.println("Nguyen Pham Bao Tran ");
         System.out.println("So nho nhat la: " + min(5, 2, 9, 1, 7));
         System.out.println("So lon nhat la: " + max(5, 2, 9, 1, 7));
     }
